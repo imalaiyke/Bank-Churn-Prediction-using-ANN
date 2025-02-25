@@ -1,4 +1,4 @@
-# 🏦 Bank Churn Prediction Neural Network 📈
+# 🏦 Bank Churn Prediction with Neural Network 📈
 
 ## 📁 Files Included
 
